@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="checkBox">
+        <attr name="is_clickable" format="boolean"/>
+        <attr name="is_single" format="boolean"/>
+    </declare-styleable>
+</resources>
